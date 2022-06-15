@@ -1,5 +1,4 @@
 # Abraham Samuel - In this program, we are going to make a snake game
-
 # importing libraries
 import pygame
 import time
