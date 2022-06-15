@@ -19,7 +19,6 @@ blue = pygame.Color(0, 0, 255)
 
 # Initialising pygame
 pygame.init()
-
 # Initialise game window
 game_window = pygame.display.set_mode((window_x, window_y))
 
